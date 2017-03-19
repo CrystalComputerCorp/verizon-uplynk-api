@@ -1,0 +1,25 @@
+{
+  "name": "verizon-uplynk-api",
+  "version": "1.0.0",
+  "description": "Node.JS implementation of Verizon Uplynk APIs",
+  "main": "api.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrystalComputerCorp/verizon-uplynk-api.git"
+  },
+  "keywords": [
+    "VDMS",
+    "Slicer",
+    "Verizon",
+    "UpLynk"
+  ],
+  "author": "Dimitri Tarassenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrystalComputerCorp/verizon-uplynk-api/issues"
+  },
+  "homepage": "https://github.com/CrystalComputerCorp/verizon-uplynk-api#readme"
+}
