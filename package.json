@@ -1,6 +1,6 @@
 {
   "name": "verizon-uplynk-api",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Node.JS implementation of Verizon Uplynk APIs",
   "main": "verizon-uplynk-api.js",
   "scripts": {

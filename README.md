@@ -66,6 +66,11 @@ Output:
     0fa8d090231c4503adc99e8a6291e91f wix.ts
     a296e9cf4eac4cda9b525ebc0d4d5082 crizal.ts
 
+## Installation
+`verizon-uplynk-api` is an NPM module. You can install it using `npm`:
+
+    npm install verizon-uplynk-api
+
 ## Testing
 Unit tests are using `nodeunit`.
 
