@@ -1,3 +1,7 @@
+# Config files that may contain passwords
+test/config.json
+example.js
+
 # Logs
 logs
 *.log
