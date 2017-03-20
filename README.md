@@ -73,7 +73,7 @@ Running unit tests would require you to have an active VDMS UpLynk account and a
 
 The format of this file is:
 
-```JSON
+```json
 {
     "liveSlicerURL": "<URL of the LiveSlicer API>",
     "liveSlicerURLAuth": "<URL of the Authenticated LiveSlicer API",
